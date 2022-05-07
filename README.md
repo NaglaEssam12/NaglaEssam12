@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, Welcome to my Profile. I'm Naglaa</h1>
 <h3 align="center"> A Passionate Junior Software Engineer from Egypt</h3>
 
-![Profile views](https://gpvc.arturio.dev/NaglaEssam12)  
-
-![GitHub Readme Photo](https://avatars.githubusercontent.com/u/25952322?v=4)
-
+![Profile views](https://gpvc.arturio.dev/NaglaEssam12) 
 
 - 🌱 I’m currently learning **Problem Solving and Unit Testing.**
 
