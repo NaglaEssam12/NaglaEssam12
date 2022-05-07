@@ -2,6 +2,13 @@
 <h3 align="center"> A Passionate Junior Software Engineer from Egypt</h3>
 
 ![Profile views](https://gpvc.arturio.dev/NaglaEssam12) 
+<p align="center">
+  <img 
+    width="300"
+    height="300"
+    src = "https://octodex.github.com/images/femalecodertocat.png"
+  >
+</p>
 
 - 🌱 I’m currently learning **Problem Solving and Unit Testing.**
 
