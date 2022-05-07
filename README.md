@@ -3,10 +3,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/NaglaEssam12)  
 
-<img align="center" src="https://avatars.githubusercontent.com/u/25952322?v=4" alt="naglaa_essam" style="display: block;
-  margin-left: auto;
-  margin-right: auto;"/>
-
 ![GitHub Readme Photo](https://avatars.githubusercontent.com/u/25952322?v=4)
 
 
