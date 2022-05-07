@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Welcome to my Profile. I'm Naglaa</h1>
-<h3 align="center">Junior Software Engineer from Egypt</h3>
+<h3 align="center">Junior Software Engineer</h3>
 
 - 🌱 I’m currently learning **Problem Solving and Unit Testing.**
 
