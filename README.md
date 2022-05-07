@@ -3,6 +3,10 @@
 
 ![Profile views](https://gpvc.arturio.dev/NaglaEssam12)  
 
+
+![GitHub Readme Photo](https://avatars.githubusercontent.com/u/25952322?v=4)
+
+
 - 🌱 I’m currently learning **Problem Solving and Unit Testing.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NaglaEssam12](https://github.com/NaglaEssam12)
