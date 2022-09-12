@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **naglaaessam4@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1IwWxuQSTTq-avcEnXPC712SuAd7bxEOu/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/11Tm7PVGzbeIifGHJ4NSiFHKsXK5sPtWk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
