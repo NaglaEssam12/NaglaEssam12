@@ -10,7 +10,7 @@
   >
 </p>
 
-- 🌱 I’m currently learning **Problem Solving and Unit Testing.**
+- 🌱 I’m currently learning **Problem Solving and Spring Boot.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NaglaEssam12](https://github.com/NaglaEssam12)
 
